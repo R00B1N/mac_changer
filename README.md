@@ -12,7 +12,8 @@ __git clone https://github.com/Blacksterhack/mac__
 
 # Uso:
 __chmod +x mac.py__
-__python2 mac.py
+
+__python2 mac.py__
 
 
 
